@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="axis2-1.7">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/databinding/client/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/databinding/service/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/faulthandling/client/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/faulthandling/service/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/java_first_jaxws/src/main" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/jaxws-addressbook/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/jaxws-calculator/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/jaxws-dynamic/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/jaxws-interop/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/jaxws-samples/src/main" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/jaxws-version/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/json/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/mtom/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/pojo/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/pojoguide/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/pojoguidespring/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/quickstart/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/quickstartadb/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/quickstartaxiom/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/quickstartjibx/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/quickstartxmlbeans/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/servicelifecycle/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/soapwithattachments/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/transport/https-sample/httpsClient/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/transport/https-sample/httpsService/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/transport/jms-sample/jmsService/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/userguide/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/version/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/yahoojsonsearch/src" />
+      <root url="file://$PROJECT_DIR$/../../libraries/axis2-1.7.9/samples/yahoorestsearch/src" />
+    </SOURCES>
+  </library>
+</component>
